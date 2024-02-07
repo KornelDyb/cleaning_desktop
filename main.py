@@ -3,10 +3,8 @@ import shutil
 
 
 
-#foldery
-#foldery stworzone na pulpicie
-#jak const tylko, że z małych liter - ls
-#dir ~/Desktop
+#mini project that cleans my desktop
+#As u can see this code is very messy because i tried my best
 
 # for i in EXCEL_ls:
 #     print(i)
@@ -48,14 +46,4 @@ zdj_files = ["jpg", "png", "gif", "bmp","jpeg"]
 
 move_file(txt_files,"txt_files")
 
-
-#do_listy(TXT_ls,txt_files)
-#do_listy()
-
-# class Folder:
-#     def __init__(self,extention) -> None:
-#         extention.self = extention
-
-#     def list_with_ex(self):
-#         for i in extention.self:
 
